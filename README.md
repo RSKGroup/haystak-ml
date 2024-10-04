@@ -1,5 +1,5 @@
 <div align="center">
- <img alt="ollama" height="200px" src="https://haystak.app/wp-content/uploads/2024/05/haystak_logo.png">
+ <img alt="ollama" height="94px" src="https://haystak.app/wp-content/uploads/2024/05/haystak_logo.png">
 </div>
 
 # haystak-ml
