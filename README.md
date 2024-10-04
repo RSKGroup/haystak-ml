@@ -4,8 +4,6 @@
 
 # haystak-ml
 
-[![Discord](https://dcbadge.vercel.app/api/server/ollama?style=flat&compact=true)](https://discord.gg/ollama)
-
 A Specialzied build of the Ollama project for haystak leveraging the ollama groomed Large Language Models.
 
 ## Quickstart
