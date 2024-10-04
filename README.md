@@ -1,44 +1,19 @@
 <div align="center">
- <img alt="ollama" height="200px" src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
+ <img alt="ollama" height="200px" src="https://haystak.app/wp-content/uploads/2024/05/haystak_logo.png">
 </div>
 
-# Ollama
+# haystak-ml
 
 [![Discord](https://dcbadge.vercel.app/api/server/ollama?style=flat&compact=true)](https://discord.gg/ollama)
 
-Get up and running with large language models.
-
-### macOS
-
-[Download](https://ollama.com/download/Ollama-darwin.zip)
-
-### Windows preview
-
-[Download](https://ollama.com/download/OllamaSetup.exe)
-
-### Linux
-
-```
-curl -fsSL https://ollama.com/install.sh | sh
-```
-
-[Manual install instructions](https://github.com/ollama/ollama/blob/main/docs/linux.md)
-
-### Docker
-
-The official [Ollama Docker image](https://hub.docker.com/r/ollama/ollama) `ollama/ollama` is available on Docker Hub.
-
-### Libraries
-
-- [ollama-python](https://github.com/ollama/ollama-python)
-- [ollama-js](https://github.com/ollama/ollama-js)
+A Specialzied build of the Ollama project for haystak leveraging the ollama groomed Large Language Models.
 
 ## Quickstart
 
 To run and chat with [Llama 3.2](https://ollama.com/library/llama3.2):
 
 ```
-ollama run llama3.2
+haystak-ml run llama3.2
 ```
 
 ## Model library
